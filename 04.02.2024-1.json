@@ -1,0 +1,25 @@
+{
+    "name": "Steven Allen",
+    "age": 64,
+    "address": {
+        "street": "Garner Valleys",
+        "city": "Caitlinchester",
+        "state": "New Jersey",
+        "zip": "13720"
+    },
+    "contact": {
+        "phone": "+1-953-731-4769x8232",
+        "servicePhone": "800898844"
+    },
+    "birthday": "1961-21-08",
+    "ip": "92.98.73.1",
+    "foo": "bar",
+    "profile": {
+        "about": "Claim bag property last fear. Answer thus play care white.\nExist sell specific. Center much everything range thing call.\nEnter appear could meeting traditional. Seek finally prevent receive.",
+        "bio": "Parent fall TV several edge different. Others together American should yet. Such across arm civil senior."
+    },
+    "currency": [
+        "UAH",
+        "Ukrainian hryvnia"
+    ]
+}
