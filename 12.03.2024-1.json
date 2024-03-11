@@ -1,0 +1,25 @@
+{
+    "name": "Melinda Calderon",
+    "age": 51,
+    "address": {
+        "street": "Kristen Greens",
+        "city": "Brianside",
+        "state": "Colorado",
+        "zip": "71256"
+    },
+    "contact": {
+        "phone": "300-430-6388x984",
+        "servicePhone": "800698329"
+    },
+    "birthday": "1974-14-07",
+    "ip": "193.118.85.120",
+    "foo": "bar",
+    "profile": {
+        "about": "Meet air board field head manage voice. Laugh during expect deal whom. Throughout they be forward. Majority sit authority free win.",
+        "bio": "Such population various decade base. Note during return compare result. Federal girl until. Dream teach house notice year toward ago mouth."
+    },
+    "currency": [
+        "SZL",
+        "Swazi lilangeni"
+    ]
+}
