@@ -1,0 +1,25 @@
+{
+    "name": "Dylan Richardson",
+    "age": 84,
+    "address": {
+        "street": "Jonathan Drive",
+        "city": "Underwoodtown",
+        "state": "New Jersey",
+        "zip": "27388"
+    },
+    "contact": {
+        "phone": "+1-257-245-6220x41235",
+        "servicePhone": "800178482"
+    },
+    "birthday": "1941-03-08",
+    "ip": "91.2.87.131",
+    "foo": "bar",
+    "profile": {
+        "about": "Cause result skill some great service least. Center act yeah necessary. There ball blue fund show trouble you.",
+        "bio": "Clearly take she parent. Since single doctor. Edge follow new sign business.\nSkin science tend strategy political home. Whether above five write. Property in say theory."
+    },
+    "currency": [
+        "ANG",
+        "Netherlands Antillean guilder"
+    ]
+}
