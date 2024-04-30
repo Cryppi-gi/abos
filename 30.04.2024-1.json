@@ -1,0 +1,25 @@
+{
+    "name": "Brandon Hendrix",
+    "age": 112,
+    "address": {
+        "street": "Jeremy Ridges",
+        "city": "Michaelberg",
+        "state": "Mississippi",
+        "zip": "57625"
+    },
+    "contact": {
+        "phone": "967-486-6271",
+        "servicePhone": "800325774"
+    },
+    "birthday": "1913-07-05",
+    "ip": "213.213.32.116",
+    "foo": "bar",
+    "profile": {
+        "about": "Eye list across hear second dog population. Staff list eye less wish.\nMean help cup financial family. Outside good finish charge. Special our worker.",
+        "bio": "Fight table response individual. End several real against series east. Billion find spring easy hospital industry.\nThousand pattern program character want society."
+    },
+    "currency": [
+        "COP",
+        "Colombian peso"
+    ]
+}
