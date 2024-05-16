@@ -1,0 +1,25 @@
+{
+    "name": "Jason Parks",
+    "age": 92,
+    "address": {
+        "street": "Green Knoll",
+        "city": "Perezberg",
+        "state": "Idaho",
+        "zip": "02508"
+    },
+    "contact": {
+        "phone": "951.727.1233",
+        "servicePhone": "800649112"
+    },
+    "birthday": "1933-29-10",
+    "ip": "124.187.192.185",
+    "foo": "bar",
+    "profile": {
+        "about": "Goal what to cell. Address kid them success baby someone unit.\nTerm baby speech threat right. Science recent although school activity bank.",
+        "bio": "Back approach democratic draw.\nFinally major even fund despite. Drop the war debate. Identify near challenge resource news.\nSeek action require writer account. Upon quickly say term."
+    },
+    "currency": [
+        "AWG",
+        "Aruban florin"
+    ]
+}
