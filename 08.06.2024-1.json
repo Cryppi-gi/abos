@@ -1,0 +1,25 @@
+{
+    "name": "Jeffery Weaver",
+    "age": 43,
+    "address": {
+        "street": "Soto Mews",
+        "city": "Port Amandafort",
+        "state": "Washington",
+        "zip": "70034"
+    },
+    "contact": {
+        "phone": "3126029503",
+        "servicePhone": "800968092"
+    },
+    "birthday": "1982-23-07",
+    "ip": "135.53.11.242",
+    "foo": "bar",
+    "profile": {
+        "about": "Something finish piece friend town meeting. Few stuff sound building investment stand teacher. New interesting nation hit magazine nor.",
+        "bio": "Water never whom entire have she. Show find study window hospital.\nDo off everyone rock Mrs. Feel boy significant shake its important."
+    },
+    "currency": [
+        "THB",
+        "Thai baht"
+    ]
+}
