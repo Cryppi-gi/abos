@@ -1,0 +1,25 @@
+{
+    "name": "Brandi Vaughn",
+    "age": 100,
+    "address": {
+        "street": "Black Plaza",
+        "city": "Marcuston",
+        "state": "Nebraska",
+        "zip": "31551"
+    },
+    "contact": {
+        "phone": "001-493-962-6917",
+        "servicePhone": "800227895"
+    },
+    "birthday": "1925-10-02",
+    "ip": "38.41.79.222",
+    "foo": "bar",
+    "profile": {
+        "about": "Bill yet market nearly soldier. Perhaps worker everybody general wish consumer. We build everybody little move.",
+        "bio": "Easy face agency. Friend author national director something quality. Under little off past produce along same."
+    },
+    "currency": [
+        "GGP",
+        "Guernsey pound"
+    ]
+}
