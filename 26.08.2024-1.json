@@ -1,0 +1,25 @@
+{
+    "name": "Daniel Black",
+    "age": 58,
+    "address": {
+        "street": "Pope Radial",
+        "city": "Jenniferview",
+        "state": "Delaware",
+        "zip": "42010"
+    },
+    "contact": {
+        "phone": "222-665-9073",
+        "servicePhone": "800349716"
+    },
+    "birthday": "1967-16-08",
+    "ip": "62.9.28.91",
+    "foo": "bar",
+    "profile": {
+        "about": "Show husband view certainly behind. Get wrong myself.\nMuch more happy read station executive. Time collection itself on action paper Mr.\nGround long seem fine summer option.",
+        "bio": "Reach control glass second music heavy for. Dream board brother speak ground mouth always. Item entire can.\nCharge able set maybe past about. Century many list."
+    },
+    "currency": [
+        "SVC",
+        "Salvadoran colón"
+    ]
+}
