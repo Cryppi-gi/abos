@@ -1,0 +1,25 @@
+{
+    "name": "Christina Aguirre",
+    "age": 100,
+    "address": {
+        "street": "Benjamin Shores",
+        "city": "Patriciaberg",
+        "state": "Oklahoma",
+        "zip": "28142"
+    },
+    "contact": {
+        "phone": "(347)902-2948",
+        "servicePhone": "800829040"
+    },
+    "birthday": "1925-25-10",
+    "ip": "36.122.251.173",
+    "foo": "bar",
+    "profile": {
+        "about": "Direction follow wife require political.\nUs arm affect police Democrat fly listen. Back into participant run teach stand front. Price boy program. Nothing home travel.",
+        "bio": "Hope medical difference tonight record senior above might. Face either safe sport Mr almost give public.\nPlayer discuss hotel meet fine change. Work talk daughter some."
+    },
+    "currency": [
+        "TJS",
+        "Tajikistani somoni"
+    ]
+}
