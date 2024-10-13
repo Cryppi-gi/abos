@@ -1,0 +1,25 @@
+{
+    "name": "Brian Sanders",
+    "age": 110,
+    "address": {
+        "street": "Martinez Prairie",
+        "city": "Navarroside",
+        "state": "Oregon",
+        "zip": "22775"
+    },
+    "contact": {
+        "phone": "+1-548-964-2843x90914",
+        "servicePhone": "800331342"
+    },
+    "birthday": "1915-03-04",
+    "ip": "14.88.51.208",
+    "foo": "bar",
+    "profile": {
+        "about": "Task food section market. Father commercial money customer feeling. Have play onto the home responsibility.\nArtist do seem. Adult benefit live wind this.",
+        "bio": "Enter break low wall.\nBehind admit policy against likely modern both. Full usually design example minute."
+    },
+    "currency": [
+        "BIF",
+        "Burundian franc"
+    ]
+}
