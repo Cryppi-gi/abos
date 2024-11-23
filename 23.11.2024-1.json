@@ -1,0 +1,25 @@
+{
+    "name": "Sarah Pham",
+    "age": 12,
+    "address": {
+        "street": "Jackson Valleys",
+        "city": "Baileyshire",
+        "state": "Arkansas",
+        "zip": "62907"
+    },
+    "contact": {
+        "phone": "(637)492-3720x953",
+        "servicePhone": "800770060"
+    },
+    "birthday": "2013-14-05",
+    "ip": "156.181.101.8",
+    "foo": "bar",
+    "profile": {
+        "about": "Sit either should second camera agree. Quite college financial coach weight.",
+        "bio": "Open family be process account rather fund. Way effect quite pay ago year woman. Leg since third form only buy church."
+    },
+    "currency": [
+        "NPR",
+        "Nepalese rupee"
+    ]
+}
